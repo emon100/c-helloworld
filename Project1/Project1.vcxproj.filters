@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="源.cpp">
-      <Filter>资源文件</Filter>
-    </ClCompile>
     <ClCompile Include="helloworld.c">
       <Filter>资源文件</Filter>
     </ClCompile>
