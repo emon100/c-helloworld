@@ -1,7 +1,6 @@
-#include <stdio.h> 
+#include <stdio.h>
 int main()
 {
-	printf("Hello world!");
-	getchar();
-	return 0; 
+	printf("I'm now using the VsVim to print Hello world!");
+	return 0;
 }
